@@ -1,0 +1,27 @@
+#countLabel {
+    display: block;
+    font-size: 160px;
+    font-weight: 1000;
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-family: 'Comic Sans MS', Times, serif;
+    font-size: 1.5em;
+    color:rgb(131, 131, 131);
+    background-color:rgb(30, 30, 30);
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: rgb(67, 67, 67);
+}
+
+body {
+    font-family: 'Comic Sans MS', Times, serif;
+    color: rgb(131, 131, 131);
+    background-color: black;
+    text-align: center;
+}
